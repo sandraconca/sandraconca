@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Sandra Conca Gómez
 
-<!--
-**sandraconca/sandraconca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Economista con Máster en Data Analysis & Business Intelligence (IEBS).  
+💡 Transformo datos en decisiones estratégicas aplicadas a ventas, marketing y operaciones.  
+📍 Actualmente trabajo en el sector cloud, creando dashboards y generando insights para fabricantes tecnológicos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+
+### 📊 Power BI – Análisis de rotación de productos (TFM)
+
+Caso de uso desarrollado para una empresa industrial ficticia. Incluye:
+- Conexión a SQL Server y modelado relacional
+- Proceso ETL con Power BI
+- Segmentación de productos con K-means (Python)
+- Cuadro de mando interactivo con KPIs, segmentadores y filtros geográficos
+
+🔗 *Muy pronto disponible en GitHub*
+
+---
+
+## 🛠 Tecnologías y habilidades
+
+- **Power BI (avanzado)**: diseño de dashboards, DAX, modelado de datos, segmentadores dinámicos y análisis avanzado  
+- **SQL (intermedio)**: consultas complejas, limpieza y análisis de datos en PostgreSQL y SQL Server  
+- **Python (análisis de datos)**: pandas, matplotlib, seaborn, scikit-learn (clustering y análisis exploratorio)  
+- **ETL y tratamiento de datos**: Power Query, procesos automatizados desde ERP  
+- **Otras herramientas**: Excel avanzado, Tableau, Looker Studio  
+- **Idiomas**: español nativo, inglés C1 (fluidez profesional)  
+- **Soft skills**: comunicación visual, storytelling con datos, orientación a negocio y toma de decisiones  
+
+---
+
+## 📫 Contacto
+
+📍 Madrid, España  
+📧 sandraconcagomez@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sandraconcagomez/)
+
