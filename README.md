@@ -16,7 +16,7 @@ Caso de uso desarrollado para una empresa industrial ficticia. Incluye:
 - Segmentación de productos con K-means (Python)
 - Cuadro de mando interactivo con KPIs, segmentadores y filtros geográficos
 
-🔗 *Muy pronto disponible en GitHub*
+🔗 https://github.com/sandraconca/powerbi-product-rotation-IEBS
 
 ---
 
